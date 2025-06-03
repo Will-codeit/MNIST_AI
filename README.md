@@ -9,4 +9,6 @@
   type:
   pip3 install torch torchvision
 
-  the mnist files are attatched.
+go to this link, download the files as a zip and unzip. if you just unzip into your downloads folder, the input path in mnist loader should work, just put your name in user.
+
+https://www.kaggle.com/datasets/hojjatk/mnist-dataset
